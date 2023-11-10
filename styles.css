@@ -52,8 +52,8 @@
 }
 .avenger figcaption{
     position: absolute;
-    top:150px;
-    bottom: 0;
+/*     top:150px; */
+    bottom: 20px;
     left: 0;
     padding: 25px;
     width: 100%;
